@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Arcade/bin/Debug/net6.0
+/Arcade/obj
+/Codesignal.Level3/bin/Debug/net6.0
+/Codesignal.Level3/obj
+/Codesignal.Main/.vs
+/Codesignal.Main/bin/Debug/net6.0
+/Codesignal.Main/obj
